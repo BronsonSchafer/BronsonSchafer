@@ -2,7 +2,7 @@
 
 <hr width="10%" />
 
-These are the languages that I have a lot of experince in (3+ years):
+These are the languages I have a lot of experince in (3+ years):
 <br /><br />
   <a href="#">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -11,7 +11,7 @@ These are the languages that I have a lot of experince in (3+ years):
   </a>
 <br />
 
-These are the languages that I have some expericen in, but I would need a refresher before starting a project:
+These are the languages I have some expericen in, but I would need a refresher before starting a project:
 <br /><br />
   <a href="#">
     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -20,7 +20,7 @@ These are the languages that I have some expericen in, but I would need a refres
   </a>
 <br />
 
-These are the languages that I plan on learning soon:
+These are the languages I plan on learning soon:
 <br /><br />
   <a href="#">
     <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
