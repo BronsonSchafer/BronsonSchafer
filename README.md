@@ -59,6 +59,6 @@ Other things I use or have experience using:
 <br />
 
 <hr width="10%" />
-<a href="#"><img alt="Discord" src="https://img.shields.io/badge/BigBuddy11%230011-%23F58025?label=Discord&style=social&logo=Discord"/></a><br />
-<a href="#"><img alt="Github" src="https://img.shields.io/github/followers/BronsonSchafer?label=Github&style=social"/></a><br />
-<a href="https://twitter.com/cmpdc"><img src="https://img.shields.io/twitter/follow/BronsonSchafer?label=Twitter&style=social"/></a><br />
+<a href="https://discordapp.com/users/163014509437386752"><img alt="Discord" src="https://img.shields.io/badge/BigBuddy11%230011-%23F58025?label=Discord&style=social&logo=Discord"/></a><br />
+<a href="https://github.com/BronsonSchafer"><img alt="Github" src="https://img.shields.io/github/followers/BronsonSchafer?label=Github&style=social"/></a><br />
+<a href="https://twitter.com/BronsonSchafer"><img src="https://img.shields.io/twitter/follow/BronsonSchafer?label=Twitter&style=social"/></a><br />
