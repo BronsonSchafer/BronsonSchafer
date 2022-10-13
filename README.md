@@ -20,6 +20,15 @@ These are the languages that I have some expericen in, but I would need a refres
   </a>
 <br />
 
+These are the languages that I plan on learning soon:
+<br /><br />
+  <a href="#">
+    <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+<br />
+
 <hr width="10%" />
 
 These are the IDEs/Editors I use often:
@@ -50,6 +59,6 @@ Other things I use or have experience using:
 <br />
 
 <hr width="10%" />
-<a href="#"><img alt="Discord" src="https://img.shields.io/badge/BigBuddy11%230001-%23F58025?label=Discord&style=social&logo=Discord"/></a><br />
+<a href="#"><img alt="Discord" src="https://img.shields.io/badge/BigBuddy11%230011-%23F58025?label=Discord&style=social&logo=Discord"/></a><br />
 <a href="#"><img alt="Github" src="https://img.shields.io/github/followers/BronsonSchafer?label=Github&style=social"/></a><br />
 <a href="https://twitter.com/cmpdc"><img src="https://img.shields.io/twitter/follow/BronsonSchafer?label=Twitter&style=social"/></a><br />
