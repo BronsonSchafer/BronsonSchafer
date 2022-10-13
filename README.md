@@ -1,4 +1,4 @@
-<h3>Hey! The name is Bronson.</h3>
+<h3>Hey! I'm Bronson!</h3>
 
 <hr width="10%" />
 
