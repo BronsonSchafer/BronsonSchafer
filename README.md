@@ -61,4 +61,5 @@ Other things I use or have experience using:
 <hr width="10%" />
 <a href="https://discordapp.com/users/163014509437386752"><img alt="Discord" src="https://img.shields.io/badge/BigBuddy11%230011-%23F58025?label=Discord&style=social&logo=Discord"/></a><br />
 <a href="https://github.com/BronsonSchafer"><img alt="Github" src="https://img.shields.io/github/followers/BronsonSchafer?label=Github&style=social"/></a><br />
-<a href="https://twitter.com/BronsonSchafer"><img src="https://img.shields.io/twitter/follow/BronsonSchafer?label=Twitter&style=social"/></a><br />
+<a href="https://www.linkedin.com/in/bronson-schafer-77109b1b8/"><img alt="Linkedin" src="https://img.shields.io/badge/-%23F58025?label=Linkedin&style=social&logo=LinkedIn"/></a><br />
+<a href="https://open.spotify.com/user/judi_joofer"><img alt="Spotify" src="https://img.shields.io/badge/-%23F58025?label=Spotify&style=social&logo=Spotify"/></a><br />
