@@ -11,7 +11,7 @@ These are the languages I have a lot of experince in (3+ years):
   </a>
 <br />
 
-These are the languages I have some expericen in, but I would need a refresher before starting a project:
+These are the languages I have some experience in, but I would need a refresher before starting a project:
 <br /><br />
   <a href="#">
     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
