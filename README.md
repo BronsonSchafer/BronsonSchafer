@@ -64,5 +64,7 @@ Other things I use or have experience using:
 <hr width="10%" />
 <a href="https://discordapp.com/users/163014509437386752"><img alt="Discord" src="https://img.shields.io/badge/BigBuddy11%230011-%23F58025?label=Discord&style=social&logo=Discord"/></a><br />
 <a href="https://github.com/BronsonSchafer"><img alt="Github" src="https://img.shields.io/github/followers/BronsonSchafer?label=Github&style=social"/></a><br />
-<a href="https://www.linkedin.com/in/bronsonschafer/"><img alt="Linkedin" src="https://img.shields.io/badge/-%23F58025?label=Linkedin&style=social&logo=LinkedIn"/></a><br />
-![](https://hit.yhype.me/github/profile?user_id=98784018)
+<a href="https://www.linkedin.com/in/bronsonschafer/"><img alt="Linkedin" src="https://img.shields.io/badge/-%23F58025?label=Linkedin&style=social&logo=LinkedIn"/></a>
+<a href="https://komarev.com/ghpvc/?username=BronsonSchafer">
+<br />
+
